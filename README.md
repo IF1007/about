@@ -1,4 +1,3 @@
-# about
 # MicroObs
 A experimental solution involving observability for microservices class
 ## Team
