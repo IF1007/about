@@ -1,7 +1,7 @@
 # MicroObs
 A experimental solution involving observability for microservices class
 
-## Team
+## Time
  * Bruno Mota ([Gmail](mailto:bvgm@cin.ufpe.br) | [Github](https://github.com/brunomota18))
  * Carlos Zimmerle ([Gmail](mailto:cezl@cin.ufpe.br) | [Github](https://github.com/carloszimm))
  
@@ -22,3 +22,4 @@ A experimental solution involving observability for microservices class
   
 ### Arquitetura
 
+![arquitetura - 2](https://user-images.githubusercontent.com/4553211/90578275-44e00780-e199-11ea-985e-6b3fa461fc32.png)
