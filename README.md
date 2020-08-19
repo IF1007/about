@@ -21,5 +21,6 @@ MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/I
   * *(Go para Microservices de Exemplo)*
   
 ### Arquitetura
-
-![arquitetura - 2](https://user-images.githubusercontent.com/4553211/90578275-44e00780-e199-11ea-985e-6b3fa461fc32.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/4553211/90578275-44e00780-e199-11ea-985e-6b3fa461fc32.png">
+</p>
