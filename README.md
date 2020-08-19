@@ -1,5 +1,5 @@
 # MicroObs
-MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/IF1007/IF1007) ministrada pelo Prof. Vinicius Garcia (https://github.com/vinicius3w), que visa prover uma solução para observalidade que possa ser facilmente integrada/consumida.
+MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/IF1007/IF1007) ministrada pelo Prof. [Vinicius Garcia](http://viniciusgarcia.me/), que visa prover uma solução para observalidade que possa ser facilmente integrada/consumida.
 
 ## Equipe
  * Bruno Mota ([Gmail](mailto:bvgm@cin.ufpe.br) | [Github](https://github.com/brunomota18))
@@ -14,11 +14,11 @@ MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/I
 
 ### Tecnologias
   * Node.js/Express + GraphQL para o API Gateway;
-  * Beats+Logstash+Elasticsearch para Centralized Logging;
+  * Beats + Logstash + Elasticsearch para Centralized Logging;
   * Prometheus para Metrics Storage;
-  * Grafana para Metrics+Logs Visualization;
+  * Grafana para Metrics + Logs Visualization;
   * Docker(+Compose) para Containers;
-  * <em style="color:red">Go para Microservices de Exemplo.</em>
+  * <span style="color:red">Go para Microservices de Exemplo.</span>
   
 ### Arquitetura
 
