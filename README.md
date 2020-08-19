@@ -1,7 +1,7 @@
 # MicroObs
-A experimental solution involving observability for microservices class
+MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/IF1007/IF1007) ministrada pelo Prof. Vinicius Garcia (https://github.com/vinicius3w), que visa prover uma solução para observalidade que possa ser facilmente integrada/consumida.
 
-## Time
+## Equipe
  * Bruno Mota ([Gmail](mailto:bvgm@cin.ufpe.br) | [Github](https://github.com/brunomota18))
  * Carlos Zimmerle ([Gmail](mailto:cezl@cin.ufpe.br) | [Github](https://github.com/carloszimm))
  
