@@ -17,8 +17,8 @@ MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/I
   * Beats + Logstash + Elasticsearch para Centralized Logging;
   * Prometheus para Metrics Storage;
   * Grafana para Metrics + Logs Visualization;
-  * Docker(+Compose) para Containers;
-  * <span style="color:red">Go para Microservices de Exemplo.</span>
+  * Docker(+Compose) para Containers.
+  * *(Go para Microservices de Exemplo)*
   
 ### Arquitetura
 
