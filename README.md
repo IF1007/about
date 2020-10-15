@@ -14,7 +14,7 @@ MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/I
 
 ### Tecnologias
   * Node.js/Express + GraphQL para o API Gateway;
-  * Beats + Logstash + Elasticsearch para Centralized Logging;
+  * Beats(filebeat) + Elasticsearch para Centralized Logging;
   * Prometheus para Metrics Storage;
   * Grafana para Metrics + Logs Visualization;
   * Docker(+Compose) para Containers.
