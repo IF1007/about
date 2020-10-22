@@ -22,5 +22,5 @@ MicroObs é um projeto, parte da disciplina [IF1007/IN1062](https://github.com/I
   
 ### Arquitetura
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/4553211/90578275-44e00780-e199-11ea-985e-6b3fa461fc32.png">
+  <img src="https://user-images.githubusercontent.com/4553211/96804651-03ace380-13e6-11eb-91ed-cb4a279c4849.png">
 </p>
